@@ -1,5 +1,5 @@
-# Project Manager Website With  React
-### promanager is simple way to collaborate with your team, Keep a track of all your projects in most simple way.
+# Consuming GitHub users api with  react
+
 
 Live Demo can be viewed at https://patoski716.github.io/consuming-github-users-api/
 
