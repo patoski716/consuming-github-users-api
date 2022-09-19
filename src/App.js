@@ -59,10 +59,10 @@ function App() {
             {format(new Date(item.created_at), "dd MMMM yyyy")} by{" "}
             {item.owner.login}</p>
             
-              <span className="align-items-center pe-5 me-5">
+              <span className="align-items-center pe-5 me-4">
               <a href={item.html_url}
             target="_blank"
-            rel="noreferrer" className="mb-2 btn btn-sm btn-outline-dark text-light">View repository</a>
+            rel="noreferrer" className="mb-2 btn btn-sm btn-outline-dark text-light">View Repo</a>
               </span>
               <button  className="btn btn-primary  text-right mx-1">
                 {item.language}
